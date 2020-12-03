@@ -104,6 +104,10 @@ p {
     cursor: pointer;
 }
 
+.nav-btn:hover {
+    background: #23ff23e5;
+}
+
 .row2,
 #btn2 {
     display:none;
@@ -140,7 +144,7 @@ p {
 
 
 .link-btn:hover {
-    background-color: #45ff45e5;
+    background-color: #3afd3ae5;
 }
 
 .row4 {
